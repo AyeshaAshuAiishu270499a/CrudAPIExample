@@ -1,0 +1,27 @@
+# .NET build results
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Others
+*.vsidx
